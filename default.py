@@ -60,7 +60,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw.php?i=bCtX50xV", "fanart": "http://horsesstock.com/wp-content/uploads/2015/01/photos_of_wild_horses00011.jpg", "genre": "Tv Live", "date": "10.17.2015", "credits": "Stallion-IPTV", "thumbnail": "https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/icon.png"}]
+SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/mh1V2p2R", "fanart": "http://horsesstock.com/wp-content/uploads/2015/01/photos_of_wild_horses00011.jpg", "genre": "Tv Live", "date": "10.17.2015", "credits": "Stallion-IPTV", "thumbnail": "https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/icon.png"}]
 
 # https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/fanart.jpg
 # https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/icon.png
