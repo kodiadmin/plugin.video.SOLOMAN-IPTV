@@ -60,7 +60,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/mh1V2p2R", "fanart": "https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5", "GENERO": "IPTV ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": " https://drive.google.com/file/d/0Bx3qBT8wzP7RMWVKS3VSeWtlR01DaTRHWTZLYjM3VjlGT093/view?ts=56a1a949"}]
+SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/mh1V2p2R", "fanart": "https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5", "GENERO": "IPTV ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": " https://drive.google.com/file/d/0Bx3qBT8wzP7RMWVKS3VSeWtlR01DaTRHWTZLYjM3VjlGT093/view?ts=56a1a949"}]
 
 # https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5
 # https://drive.google.com/file/d/0Bx3qBT8wzP7RMWVKS3VSeWtlR01DaTRHWTZLYjM3VjlGT093/view?ts=56a1a949
