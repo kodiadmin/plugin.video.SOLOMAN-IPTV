@@ -60,14 +60,14 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/mh1V2p2R", "fanart": "http://horsesstock.com/wp-content/uploads/2015/01/photos_of_wild_horses00011.jpg", "genre": "Tv Live", "date": "10.17.2015", "credits": "Stallion-IPTV", "thumbnail": "https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/icon.png"}]
+SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/mh1V2p2R", "fanart": "https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5", "GENERO": "IPTV ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": " https://drive.google.com/file/d/0Bx3qBT8wzP7RMWVKS3VSeWtlR01DaTRHWTZLYjM3VjlGT093/view?ts=56a1a949"}]
 
-# https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/fanart.jpg
-# https://googledrive.com/host/0BzqtJBUy3FRTc1Vrem5fbmNKVlk/icon.png
+# https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5
+# https://drive.google.com/file/d/0Bx3qBT8wzP7RMWVKS3VSeWtlR01DaTRHWTZLYjM3VjlGT093/view?ts=56a1a949
 
 """
 if os.path.exists(source_file)==True:
-    SOURCES = open(source_file).read()
+SOURCES = open(source_file).read()
 else: SOURCES = []
 """
 
