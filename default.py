@@ -60,9 +60,9 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/c1YqQytk", "fanart": "https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5", "GENERO": "IPTV ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6f/My_Network_TV_Logo_3D.png"}]
+SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/c1YqQytk", "fanart": "http://www.ashfordcastle.com/~/media/ttc/rch/ashford%20castle/main%20carousel/mobile/ash_cinema_03_1024x576.jpg?h=576&la=en-US&w=1024", "GENERO": "IPTV ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6f/My_Network_TV_Logo_3D.png"}]
 
-# https://drive.google.com/file/d/0Bx3qBT8wzP7ROUROc0ZXck1BNUU/view?ts=56a1a9d5
+# http://www.ashfordcastle.com/~/media/ttc/rch/ashford%20castle/main%20carousel/mobile/ash_cinema_03_1024x576.jpg?h=576&la=en-US&w=1024
 # https://upload.wikimedia.org/wikipedia/en/6/6f/My_Network_TV_Logo_3D.png
 
 """
