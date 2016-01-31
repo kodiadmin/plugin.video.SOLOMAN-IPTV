@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.SOLOMAN-IPTV" name="[COLOR blue]SoloMan[/COLOR]" version="2.2" provider-name="SOLOMAN-IPTV">
+<addon id="plugin.video.freeworld-stream" name="[COLOR blue]Freeworld-Stream[/COLOR]" version="1.0" provider-name="Freeworld Channel">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -17,8 +17,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>SOLOMAN-IPTV basado en LivetreamsPro by Shani</summary>
-    <description lang="en">SOLOMAN-IPTV</description>
+    <summary>Freeworld-Stream basado en LivetreamsPro by Shani</summary>
+    <description lang="en">Freeworld-Stream</description>
     <platform>all</platform>
   </extension>
 </addon>

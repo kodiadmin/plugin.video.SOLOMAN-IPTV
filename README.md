@@ -1,1 +1,1 @@
-# plugin.video.SOLOMAN-IPTV
+# plugin.video.freeworld-stream
