@@ -60,10 +60,10 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "freeworld-stream ", "url": "http://pastebin.com/raw/VzSyc0tu", "fanart": "http://s3.amazonaws.com/fotor.cdn/share.url/1f5c9f199ef34004aa3cd24dddf284ce.jpeg", "GENERO": "LIVE STREAM ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": "http://s3.amazonaws.com/fotor.cdn/share.url/4d94114af3e14e7a8952817e6323e271.jpeg"}]
+SOURCES = [{"title": "freeworld-stream ", "url": "http://pastebin.com/raw/VzSyc0tu", "fanart": "http://s3.amazonaws.com/fotor.cdn/share.url/1f5c9f199ef34004aa3cd24dddf284ce.jpeg", "GENERO": "LIVE STREAM ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": "http://s3.amazonaws.com/fotor.cdn/share.url/6315fdb4ed7b413191bf14a0f6ef277b.jpeg"}]
 
 # http://s3.amazonaws.com/fotor.cdn/share.url/1f5c9f199ef34004aa3cd24dddf284ce.jpeg
-# http://s3.amazonaws.com/fotor.cdn/share.url/4d94114af3e14e7a8952817e6323e271.jpeg
+# http://s3.amazonaws.com/fotor.cdn/share.url/6315fdb4ed7b413191bf14a0f6ef277b.jpeg
 
 """
 if os.path.exists(source_file)==True:
