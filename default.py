@@ -60,10 +60,10 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "SOLOMAN-IPTV ", "url": "http://pastebin.com/raw/VzSyc0tu", "fanart": "http://2.bp.blogspot.com/-WXtfUJi3AMw/U0RLC0dBpbI/AAAAAAAANcM/eAQulKgz3MQ/s1600/mntv_logsp02-3DCD-02_0004b.jpg", "GENERO": "IPTV ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6f/My_Network_TV_Logo_3D.png"}]
+SOURCES = [{"title": "freeworld-stream ", "url": "http://pastebin.com/raw/VzSyc0tu", "fanart": "http://s3.amazonaws.com/fotor.cdn/share.url/1f5c9f199ef34004aa3cd24dddf284ce.jpeg", "GENERO": "LIVE STREAM ", "date": "01/21/2016", "credits": "SOLOMAN", "thumbnail": "http://s3.amazonaws.com/fotor.cdn/share.url/4d94114af3e14e7a8952817e6323e271.jpeg"}]
 
-# http://2.bp.blogspot.com/-WXtfUJi3AMw/U0RLC0dBpbI/AAAAAAAANcM/eAQulKgz3MQ/s1600/mntv_logsp02-3DCD-02_0004b.jpg
-# https://upload.wikimedia.org/wikipedia/en/6/6f/My_Network_TV_Logo_3D.png
+# http://s3.amazonaws.com/fotor.cdn/share.url/1f5c9f199ef34004aa3cd24dddf284ce.jpeg
+# http://s3.amazonaws.com/fotor.cdn/share.url/4d94114af3e14e7a8952817e6323e271.jpeg
 
 """
 if os.path.exists(source_file)==True:
